@@ -7,3 +7,4 @@ TODO:
 - borders around the text
 - detect out of window painting and draw up if needed
 - allow max height, use scroll if this is used
+- like, styling in general
